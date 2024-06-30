@@ -24,7 +24,7 @@ public Plugin myinfo =
     author = "-R3d RuSh.", 
     description = "", 
     version = "", 
-    url = "https://github.com/R3dRuSh123/HUD-MESSAGE/" 
+    url = "https://github.com/R3dRuSh123/HUD-System/" 
 }; 
 
 public OnPluginStart() 
